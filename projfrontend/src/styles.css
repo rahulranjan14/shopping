@@ -1,0 +1,151 @@
+/* .btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+} */
+
+body {
+  background: #EAF0F1;
+  background: linear-gradient(to right, #ffefba, #ffffff);
+}
+
+.basebg{
+  background: #EAF0F1;
+  background: linear-gradient(to right, #ffefba, #ffffff);
+  background-image: url(./assets/shop.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+ background-blend-mode: color-burn;
+  
+  
+}
+
+footer{
+  position: relative;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+}
+
+/* .navcol{
+  background-color: #4834DF;
+} */
+
+.textnav{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navfluid{
+background-color: #0A79DF;
+}
+
+.navmin{
+background-color: #0A79DF;
+}
+
+.hovereffect{
+  border-radius: 15px;
+}
+
+.bgimage{
+  z-index: -1;
+}
+
+.htext{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #EAF0F1;
+  text-shadow: 3px 3px 5px #2F363F;
+ font-weight: 500;
+}
+
+.ptext{
+  color: #EAF0F1;
+font-family: cursive;
+  text-shadow: 3px 3px 5px #2F363F;
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.footercol{
+  background-color: #0A3D62;
+}
+
+.cardbg{
+  background-color: #ffffe4;
+}
+
+.cardheadcol{
+  background-color: #30336B;
+}
+
+.btnaddcartcol{
+  background-color: #586776;
+}
+
+.btnaddcartcol:hover{
+  background-color:#019031 ;
+}
+
+.btnremcartcol{
+  background-color: #586776;
+}
+
+.btnremcartcol:hover{
+  background-color:#BA2F16 ;
+}
+
+.emptycartimg{
+  width: 100%;
+  max-width: 400px;
+  height: 100%;
+  max-height: 400px;
+  zoom: 1.5;
+}
+
+.creditimg{
+  width: 100%;
+  max-width: 150px;
+  height: 100%;
+  max-height: 150px;
+  zoom: 1.5;
+}
+
+.signbtn{
+  background-color: #1287A5;
+}
+
+.signbtn:hover{
+  background-color: #758AA2;
+}
+
+.adminbg{
+  background-color: #30336B;
+  border-radius: 7px;
+ 
+}
+
+.adminoptions:hover{
+  background-color: #ffffe4;
+}
+
+.adminheader{
+  background-color: #6AB04A;
+  
+}
+
+hr.home{
+  clear: both;
+  visibility: hidden;
+  margin-bottom: 30px;
+}
+
+.formbg{
+  background-color: #fff5ee;
+}
+
+hr.sign{
+  clear: both;
+  visibility: hidden;
+  margin-bottom: 50px;
+}
