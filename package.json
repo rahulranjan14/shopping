@@ -1,0 +1,22 @@
+{
+  "name": "shopping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "concurrently \"cd projbackend && npm run dev\" \"cd projfrontend && npm start\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulranjan14/shopping.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^5.3.0"
+  },
+  "bugs": {
+    "url": "https://github.com/rahulranjan14/shopping/issues"
+  },
+  "homepage": "https://github.com/rahulranjan14/shopping#readme"
+}
